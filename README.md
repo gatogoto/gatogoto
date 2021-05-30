@@ -1,3 +1,5 @@
+![gatogoto](gatogoto.svg) 
+
 # :gatogoto [ALPHA]
 An esoteric programming language about cats.
 
