@@ -1,5 +1,5 @@
-# :gatogoto
-An esoteric programming language about cats. [ALPHA]
+# :gatogoto [ALPHA]
+An esoteric programming language about cats.
 
 This is a little programming language i made with lua to prove myself i could code one.
 
